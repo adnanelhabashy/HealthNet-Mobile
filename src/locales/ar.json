@@ -1,0 +1,30 @@
+{
+  "login": {
+    "welcome": "مرحباً بك في هيلث نت",
+    "subtitle": "شريكك الصحي الموثوق.",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "passwordPlaceholder": "كلمة المرور",
+    "logInButton": "تسجيل الدخول",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "toggleLanguage": "English"
+  },
+  "home": {
+    "greeting": "أهلاً، {{name}}!",
+    "summary": "إليك ملخصك الصحي لهذا اليوم.",
+    "upcomingAppointment": "موعد قادم",
+    "appointmentWith": "د. إيفلين ريد",
+    "appointmentTime": "اليوم، 9 يونيو الساعة 5:30 مساءً",
+    "actionBook": "حجز موعد",
+    "actionRecords": "سجلاتي",
+    "actionFindDoctor": "ابحث عن طبيب",
+    "tipTitle": "نصيحة اليوم الصحية",
+    "tipText": "تذكر أن تبقى رطبًا! شرب كمية كافية من الماء يمكن أن يحسن مستويات الطاقة ووظائف المخ والصحة العامة.",
+    "signOut": "تسجيل الخروج"
+  },
+  "header": {
+    "dashboard": "لوحة تحكم هيلث نت"
+  },
+  "footer": {
+    "copyright": "© 2025 هيلث نت"
+  }
+}

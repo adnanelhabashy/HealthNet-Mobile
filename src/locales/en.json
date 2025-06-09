@@ -1,0 +1,30 @@
+{
+  "login": {
+    "welcome": "Welcome to HealthNet",
+    "subtitle": "Your trusted health partner.",
+    "emailPlaceholder": "Email Address",
+    "passwordPlaceholder": "Password",
+    "logInButton": "Log In",
+    "forgotPassword": "Forgot Password?",
+    "toggleLanguage": "العربية"
+  },
+  "home": {
+    "greeting": "Hello, {{name}}!",
+    "summary": "Here's your health summary for today.",
+    "upcomingAppointment": "UPCOMING APPOINTMENT",
+    "appointmentWith": "Dr. Evelyn Reed",
+    "appointmentTime": "Today, June 9 at 5:30 PM",
+    "actionBook": "Book Appointment",
+    "actionRecords": "My Records",
+    "actionFindDoctor": "Find a Doctor",
+    "tipTitle": "Health Tip of the Day",
+    "tipText": "Remember to stay hydrated! Drinking enough water can improve energy levels, brain function, and overall well-being.",
+    "signOut": "Sign Out"
+  },
+  "header": {
+    "dashboard": "HealthNet Dashboard"
+  },
+  "footer": {
+    "copyright": "© 2025 HealthNet"
+  }
+}
